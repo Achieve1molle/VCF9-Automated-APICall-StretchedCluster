@@ -1,2 +1,2 @@
 # VCF9-Automated-APICall-StretchedCluster
-VCF9 (9.0 assume change in 9.1) API call to SDDC manager with  JSON to stretch Cluster
+VCF9 (9.0 assume change in 9.1) API call to SDDC manager with  JSON to stretch the Cluster with UI for ease of use.
