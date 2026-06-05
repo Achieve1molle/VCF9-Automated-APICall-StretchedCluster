@@ -1,6 +1,6 @@
 # VCF 9 Stretched Cluster Automation
 
-**Production Version:** v2.0  
+**Production Version:** v2.0.2  
 **Author:** Michael Molle  
 **Runtime:** PowerShell 7+ / WPF  
 **Primary Use Case:** Generate, validate, and execute VCF 9 Management Domain stretched-cluster JSON payloads.
